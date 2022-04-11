@@ -27,9 +27,3 @@ def quick_sort(a, lx, rx):
 
 
 
-a = [100,3,8,1,66,1]
-
-n = len(a)
-#distribuzione(a, 0, n)
-quick_sort(a, 0, n)
-print(a)
